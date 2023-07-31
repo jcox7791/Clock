@@ -1,0 +1,44 @@
+img {
+  height: 937px;
+  width: 100%;
+}
+section {
+  margin-top: -630px;
+  margin-right: 650px;
+  margin-left: 650px;
+  text-align: center;  
+}
+#date_root{
+    color: ghostwhite;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px goldenrod;
+}
+#clock_div {
+  display: flex;
+  justify-content: space-evenly;
+}
+.timers {
+  border-color: tan;
+  background-color: rgba(0, 0, 0, 0.541);
+  border-style: solid;
+  box-shadow: 2px 2px 8px 2px ghostwhite;
+  color: tan;
+  font-size: 100px;
+  padding: 10px;    
+}
+.colon {
+  color: tan;
+  font-size: 100px;
+}
+#amPm_div{
+    margin-top: 78px;
+}
+.amPm{
+    border-color: tan;
+    background-color: rgba(0, 0, 0, 0.541);
+    border-style: solid;
+    box-shadow: 2px 2px 8px 2px ghostwhite;
+    color: tan;
+    font-size: 50px;
+    padding: 10px; 
+}
